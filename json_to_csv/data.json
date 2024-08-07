@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "66b17c72aafaf72bf91ed2d6",
+    "index": 0,
+    "guid": "37ec973a-d2e5-4aac-bc14-a4474feecb63",
+    "isActive": true,
+    "balance": "$3,093.16",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Kerry Mays",
+    "gender": "female",
+    "company": "BEZAL",
+    "about": "Elit amet duis elit amet magna cillum enim officia. Tempor do ex consequat ad dolore. Proident cupidatat Lorem nulla veniam ea quis et commodo esse sint elit sunt. Sunt nulla ullamco aute mollit id eu do excepteur magna est eu dolor consequat. Pariatur quis est in adipisicing ipsum adipisicing quis consectetur amet. Deserunt in cillum enim quis eiusmod incididunt aute reprehenderit ullamco incididunt dolore nostrud consequat mollit. Laboris do nostrud anim magna.\r\n",
+    "registered": "2022-08-25T11:14:40 +04:00",
+    "latitude": 44.84578,
+    "longitude": -144.964023,
+    "tags": ["sint", "occaecat", "fugiat", "eu", "do", "excepteur", "et"],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lynn Schmidt",
+        "email": "lynnschmidt@bezal.com",
+        "phone": "+1 (960) 404-2965",
+        "address": "998 Gunnison Court, Romeville, Massachusetts, 5554"
+      },
+      {
+        "id": 1,
+        "name": "Heath Tillman",
+        "email": "heathtillman@bezal.com",
+        "phone": "+1 (953) 444-2567",
+        "address": "160 Truxton Street, Adamstown, Northern Mariana Islands, 5141"
+      },
+      {
+        "id": 2,
+        "name": "Velazquez Gilbert",
+        "email": "velazquezgilbert@bezal.com",
+        "phone": "+1 (913) 456-2538",
+        "address": "591 Garnet Street, Joppa, Federated States Of Micronesia, 6072"
+      },
+      {
+        "id": 3,
+        "name": "Molly Dillon",
+        "email": "mollydillon@bezal.com",
+        "phone": "+1 (813) 572-3771",
+        "address": "955 Schermerhorn Street, Gulf, Maine, 5684"
+      },
+      {
+        "id": 4,
+        "name": "Maryann Carpenter",
+        "email": "maryanncarpenter@bezal.com",
+        "phone": "+1 (996) 563-2230",
+        "address": "590 Pooles Lane, Inkerman, Arkansas, 1896"
+      },
+      {
+        "id": 5,
+        "name": "Sofia Blair",
+        "email": "sofiablair@bezal.com",
+        "phone": "+1 (874) 585-2660",
+        "address": "959 Bulwer Place, Cavalero, Ohio, 8127"
+      },
+      {
+        "id": 6,
+        "name": "Mccormick Sharp",
+        "email": "mccormicksharp@bezal.com",
+        "phone": "+1 (840) 515-2284",
+        "address": "355 Vernon Avenue, Hebron, Arizona, 564"
+      },
+      {
+        "id": 7,
+        "name": "Duran Knight",
+        "email": "duranknight@bezal.com",
+        "phone": "+1 (971) 416-3708",
+        "address": "603 Box Street, Taycheedah, New York, 4671"
+      },
+      {
+        "id": 8,
+        "name": "Lizzie Burke",
+        "email": "lizzieburke@bezal.com",
+        "phone": "+1 (922) 426-3888",
+        "address": "524 Everit Street, Yonah, New Mexico, 5711"
+      },
+      {
+        "id": 9,
+        "name": "Barbra Buckley",
+        "email": "barbrabuckley@bezal.com",
+        "phone": "+1 (886) 409-2325",
+        "address": "227 Campus Place, Singer, North Carolina, 3600"
+      }
+    ]
+  }
+]
